@@ -11,4 +11,5 @@
 
 > [!IMPORTANT]
 > [![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-3.png)](http://www.wtfpl.net)<br>
-> [![Nickname](https://mynickname.com/img.php?nick=alozo&sert=23&text=t9)](https://mynickname.com/id1823855)
+> [![Nickname](https://mynickname.com/img.php?nick=alozo&sert=23&text=t9)](https://mynickname.com/id1823855)<br>
+> ![Count](https://count.getloli.com/@Github_alozoBack?name=Github_alozoBack&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1)
